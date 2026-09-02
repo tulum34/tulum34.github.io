@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Monogram mark">
+  <rect width="64" height="64" rx="8" fill="#1b3a5c"/>
+  <path d="M14 21 Q32 45 50 21" fill="none" stroke="#fbf9f5" stroke-width="4.5" stroke-linecap="round"/>
+  <path d="M14 39 Q32 51 50 39" fill="none" stroke="#fbf9f5" stroke-width="3.25" stroke-linecap="round" opacity="0.55"/>
+</svg>
